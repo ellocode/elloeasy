@@ -1,0 +1,20 @@
+{
+    "name": "josue.silva/ello-easy",
+    "description": "Esta \u0000 a ferramenta de cria\u0000\u0000o de sites",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Josue de Lacerda",
+            "email": "josuelacerda@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Setup\\": "setup/"
+        }
+    }
+}
